@@ -1,5 +1,5 @@
 # ST10134437: Prog Ice Task 1
-## Project loaction:
+## Project location:
 - Firebasics
 - app
 - src

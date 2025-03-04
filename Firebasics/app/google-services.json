@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230163435205",
+    "project_id": "prog7313-e1941",
+    "storage_bucket": "prog7313-e1941.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230163435205:android:f30034571df86eca2f2aac",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.calculatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92pozhjjiONOvT7-F3b6VDUa34x6hLvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230163435205:android:594941a1fa1659072f2aac",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.firebasics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD92pozhjjiONOvT7-F3b6VDUa34x6hLvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
